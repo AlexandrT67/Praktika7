@@ -90,19 +90,28 @@
   
   .foother
   {
-   
-    background: linear-gradient(180deg, #CE4444 0%, #000000 97.92%);
-  
+   margin-top: 170px;
+     
   }
-  .foot
+  .btn
   {
-  font-family: Roboto;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 900;
-  line-height: 28px;
-  letter-spacing: 0em;
-  text-align: center;
-  background: #FFFFFF;
+height: 65px;
+width: 484px;
+left: 547px;
+top: 727px;
+background: linear-gradient(180deg, #CE4444 0%, #000000 97.92%);
+border: 0; 
+cursor: pointer;
+
+Font style: Bold
+font-weight: 700px;
+Font size: 18px;
+color: #FFFFFF;
+display: block;
+margin:0 auto;
+
+border-radius: 0px;
+
   }
+  
   
